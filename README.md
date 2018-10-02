@@ -2,4 +2,4 @@
 
 Driver for WS2812B LED. Originally made for Adafruit NeoPixel Neomatrix.
 
-Code was taken from user bianchi77 on forum avrfreaks.com.
+Code was taken from user bianchi77 on forum avrfreaks.com, and modified by Elijah Nicasio.
